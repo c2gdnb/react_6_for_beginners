@@ -3,7 +3,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# No mac stuff 1
+# No mac stuff
 .DS_Store
 
 # No vscode stuff
