@@ -44,6 +44,7 @@ function App() {
 
   const resetGame = () => {
     setStep(0);
+    setcorrect(0);
   }
 
   return (
