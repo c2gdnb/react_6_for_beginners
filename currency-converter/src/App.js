@@ -42,7 +42,7 @@ function App() {
         console.log(err);
         alert(err);
       });
-  }, [onChangeFromPrice]);
+  }, [onChangeFromPrice, onChangeToPrice]);
 
   useEffect(() => {
     onChangeFromPrice(fromPrice);
